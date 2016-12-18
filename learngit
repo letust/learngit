@@ -7,7 +7,7 @@ $ git init
 2.03 git status  --查看状态
 2.04 git diff +文件名  --比较文件
 2.05 git log
-	git log --pretty=online
+	git log --pretty=oneline
 2.06 git reset --版本回退
 	git reset --hard +版本号  ---上一个版本是 HEAD^
 2.07 git reflog
