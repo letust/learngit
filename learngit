@@ -1,0 +1,17 @@
+01. 将一个空目录初始化为可以管理的git仓库
+$ git init
+
+02. 常用到的命令
+2.01 git add +文件名
+2.02 git commit -m "文字说明"
+2.03 git status  --查看状态
+2.04 git diff +文件名  --比较文件
+2.05 git log
+	git log --pretty=online
+2.06 git reset --版本回退
+	git reset --hard +版本号  ---上一个版本是 HEAD^
+2.07 git reflog
+2.08 
+
+
+
