@@ -13,5 +13,9 @@ $ git init
 2.07 git reflog
 2.08 
 
+远程库操作
+git clone git@github.com:letust/learngit.git --将远程库克隆到本地
+
+
 
 
